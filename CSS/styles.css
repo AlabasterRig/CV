@@ -1,0 +1,38 @@
+body {
+    background-color: #ECF9FF;
+    color: #15133C;
+  }
+
+  hr {border-style: none;
+    border-color: #73777B;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    
+  }
+
+  h1 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #567189;
+  }
+
+  th {
+    color: #400E32;
+  }
+
+  a {
+    color: #1C82AD;
+  }
+
+  /* ################################## CLASS TAGS ######################################### */
+
+  .Main-Image {
+    width: 70%;
+  }
+
+  .Name:hover {
+    color: gold;
+  }
